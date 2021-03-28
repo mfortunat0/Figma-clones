@@ -2,6 +2,7 @@
 <p align=center><img src="./.github/preview.gif"/></p>
 <p align=center>Based on design <a href="https://www.figma.com/file/5ykfeZiarqOxUbMawTI3Ab/Suits-login?node-id=1%3A90">Figma</a> 
 created by: <a href="https://www.linkedin.com/in/andrei-muniz-0331ab193/">Andrei Muniz</a></p>
+<p align=center>Done with: Next.js Typescript Styled-components</p>
 <h1 align=center>Start project</h1>
 
 ```bash
