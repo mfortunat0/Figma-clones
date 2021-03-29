@@ -14,7 +14,7 @@ import {
   ContainerBars,
   ButtonMode,
   TextBar,
-} from "../styles/loginSuits";
+} from "../styles/suitLogin";
 
 import { FaFacebook, FaTwitter, FaGoogle } from "react-icons/fa";
 import { useState } from "react";
@@ -35,8 +35,18 @@ export default function Home() {
         />
       </Head>
       <LogoContainer>
-        <Image dark={darkMode} width="100%" height="70%" src="/logo.svg" />
-        <Image dark={darkMode} width="100%" height="30%" src="/logoText.svg" />
+        <Image
+          dark={darkMode}
+          width="100%"
+          height="70%"
+          src="/suitLogin/logo.svg"
+        />
+        <Image
+          dark={darkMode}
+          width="100%"
+          height="30%"
+          src="/suitLogin/logoText.svg"
+        />
       </LogoContainer>
       <FormContainer dark={darkMode}>
         <Title dark={darkMode}>Entre em sua conta</Title>
