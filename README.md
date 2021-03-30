@@ -20,3 +20,5 @@ Acess <a href="http://localhost:3000/"> localhost:3000</a>
 
 <h1 align=center>Previews</h1>
 <p align=center><img src="./.github/previewSuitLogin.gif"/></p>
+<br />
+<p align=center><img src="./.github/previewSuitDesign.gif"/></p>

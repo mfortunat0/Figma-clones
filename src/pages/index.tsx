@@ -15,7 +15,16 @@ export default function Home() {
       </Head>
       <Title>Choose a page</Title>
       <ContainerCards>
-        <Card name="Suit Login" url="/suitLogin/previewSuitLogin.gif" path="/suitLogin" />
+        <Card
+          name="Suit Login"
+          url="/suitLogin/previewSuitLogin.gif"
+          path="/suitLogin"
+        />
+        <Card
+          name="Suit Design"
+          url="/suitDesign/previewSuitDesign.gif"
+          path="/suitDesign"
+        />
       </ContainerCards>
     </Main>
   );
